@@ -1,0 +1,39 @@
+/* Deklarasi warna */
+.blue-1 {
+    background-color: #F1F3FF;
+}
+.blue-4 {
+    background-color: #0D28A6;
+}
+.green-3 {
+    background-color: #92D094;
+}
+.green-4 {
+    background-color: #5CB85F;
+}
+
+/* Umum */
+body {
+    font-family: Helvetica, sans-serif;
+    font-style: normal;
+    background-image: linear-gradient(to bottom right, rgb(59, 147, 230), rgb(88, 224, 133));
+}
+h1 {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+}
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+p {
+    font-size: 14px;
+}
+
+/* NAVBAR */
+.navbar {
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+}
